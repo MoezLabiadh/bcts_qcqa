@@ -1,1 +1,1 @@
-# bcts_qcqa
+BCTS QC/QA tool: dormant project.
